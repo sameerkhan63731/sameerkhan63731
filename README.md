@@ -5,7 +5,7 @@
 I build reliable enterprise applications across backend services, modern web interfaces, cloud delivery, and production operations. My strongest work sits where application code meets real-world scale: API design, asynchronous processing, database performance, secure delivery, observability, and incident resolution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sameer-khan-a2525041a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-6C63FF?style=flat-square)](https://sameer-khan-pathan.sandy-titan-7377.chatgpt.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-6C63FF?style=flat-square)](https://sameer-khan-pathan.patsameer26.chatgpt.site)
 [![Location](https://img.shields.io/badge/Location-Dallas%2C_TX-24292F?style=flat-square)](#)
 
 ## Selected engineering work
