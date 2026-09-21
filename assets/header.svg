@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Sameer Khan Pathan — Java Full Stack Developer</title>
+  <desc id="desc">Professional profile banner in deep navy, blue, cyan and violet.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".55" stop-color="#10264a"/><stop offset="1" stop-color="#24164b"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2dd4ff"/><stop offset=".48" stop-color="#4f8cff"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="310" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="55" r="145" fill="#4957ff" opacity=".18" filter="url(#glow)"/>
+  <circle cx="120" cy="290" r="125" fill="#00c8ff" opacity=".16" filter="url(#glow)"/>
+  <g opacity=".14" stroke="#b8d7ff"><path d="M760 0v310M820 0v310M880 0v310M940 0v310M1000 0v310M1060 0v310M1120 0v310"/><path d="M720 65h480M720 125h480M720 185h480M720 245h480"/></g>
+  <rect x="66" y="59" width="74" height="74" rx="17" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <text x="103" y="108" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="31" fill="#7ddcff">SK</text>
+  <text x="166" y="90" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="42" fill="#f2f7ff">Sameer Khan Pathan</text>
+  <text x="166" y="126" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#8bcfff" letter-spacing="1">JAVA FULL STACK DEVELOPER</text>
+  <rect x="66" y="169" width="560" height="3" rx="2" fill="url(#accent)"/>
+  <text x="66" y="211" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c1d1e7">Spring Boot · Microservices · Angular/React · AWS · Kafka</text>
+  <text x="66" y="246" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#8297b5">Building secure, observable systems from API design to production.</text>
+  <g transform="translate(777 182)">
+    <rect width="340" height="67" rx="14" fill="#071426" opacity=".72" stroke="#4a6891"/>
+    <circle cx="29" cy="33" r="6" fill="#34d399"/>
+    <text x="49" y="29" font-family="ui-monospace,monospace" font-size="14" fill="#8ba1c0">engineering.status</text>
+    <text x="49" y="50" font-family="ui-monospace,monospace" font-size="15" font-weight="700" fill="#d9e8ff">READY_TO_BUILD</text>
+  </g>
+</svg>
