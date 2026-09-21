@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-khan-a2525041a"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sameer-khan-pathan.patsameer26.chatgpt.site"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sameerkhanpathan.com"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Dallas%2C_TX-Open_to_opportunities-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Dallas, Texas" />
 </p>
 
