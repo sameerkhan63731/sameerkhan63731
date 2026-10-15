@@ -15,7 +15,7 @@
   <text x="166" y="90" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="42" fill="#f2f7ff">Sameer Khan Pathan</text>
   <text x="166" y="126" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#8bcfff" letter-spacing="1">JAVA FULL STACK DEVELOPER</text>
   <rect x="66" y="169" width="560" height="3" rx="2" fill="url(#accent)"/>
-  <text x="66" y="211" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c1d1e7">Spring Boot · Microservices · Angular/React · AWS · Kafka</text>
+  <text x="66" y="211" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c1d1e7">Spring Boot · Microservices · Angular/React · Kafka · GCP/AWS</text>
   <text x="66" y="246" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#8297b5">Building secure, observable systems from API design to production.</text>
   <g transform="translate(777 182)">
     <rect width="340" height="67" rx="14" fill="#071426" opacity=".72" stroke="#4a6891"/>

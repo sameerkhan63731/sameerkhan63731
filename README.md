@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-khan-a2525041a"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sameerkhanpathan.com"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sameerwork.online"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Dallas%2C_TX-Open_to_opportunities-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Dallas, Texas" />
 </p>
 
 ## 👋 About me
 
-I’m a **Java Full Stack Developer** with 5+ years of experience building reliable enterprise applications—from Spring Boot services and event-driven workflows to modern Angular/React interfaces and cloud delivery on AWS.
+I’m a **Java Full Stack Developer** with 5+ years of experience building reliable enterprise applications—from Spring Boot services and event-driven workflows to modern Angular/React interfaces and cloud delivery on GCP and AWS. Most of my work has been in **banking and fintech**: payments, invoicing, and the APIs and event flows behind them.
 
 I care about the parts of engineering that make software dependable in the real world: clean API contracts, resilient distributed systems, database performance, secure delivery, observability, and thoughtful incident resolution.
 
 - 🔭 Building production-minded full-stack and backend portfolio projects
 - ⚙️ Strongest in Java, Spring Boot, microservices, REST APIs, and distributed systems
-- ☁️ Experienced with AWS, Docker, Kubernetes, Terraform, and CI/CD
+- ☁️ Experienced with GCP (GKE), AWS, Docker, Kubernetes, Terraform, and CI/CD
+- 🔐 Comfortable with Spring Security, OAuth2/OIDC, JWT, and role-based access in regulated environments
 - 🤝 Open to Java full-stack and backend engineering opportunities in the United States
 
 ## 🧰 Technology stack
@@ -28,10 +28,12 @@ I care about the parts of engineering that make software dependable in the real 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -68,8 +70,9 @@ Operations   Trace problems across UI · APIs · Messaging · Databases · Cloud
 
 ## 🏅 Credentials
 
+- Oracle Certified Professional: Java SE Developer
+- Google Cloud Certified Professional Cloud Developer
 - AWS Certified Developer – Associate
-- Java Full Stack Developer Certification
 
 ---
 
