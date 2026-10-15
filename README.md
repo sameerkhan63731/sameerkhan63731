@@ -13,7 +13,7 @@ I’m a **Java Full Stack Developer** with 5+ years of experience building relia
 
 I care about the parts of engineering that make software dependable in the real world: clean API contracts, resilient distributed systems, database performance, secure delivery, observability, and thoughtful incident resolution.
 
-- 🔭 Building production-minded full-stack and backend portfolio projects
+- 🔭 Building production-minded full-stack and backend portfolio projects (latest: [PayFlow Approvals](https://github.com/sameerkhan63731/payflow-approvals))
 - ⚙️ Strongest in Java, Spring Boot, microservices, REST APIs, and distributed systems
 - ☁️ Experienced with GCP (GKE), AWS, Docker, Kubernetes, Terraform, and CI/CD
 - 🔐 Comfortable with Spring Security, OAuth2/OIDC, JWT, and role-based access in regulated environments
@@ -45,6 +45,7 @@ I care about the parts of engineering that make software dependable in the real 
 
 | Project | Engineering highlights | Stack |
 |---|---|---|
+| **[PayFlow Approvals](https://github.com/sameerkhan63731/payflow-approvals)** ⭐ | Full-stack ACH/wire approvals: tiered maker-checker, JWT roles, idempotent create, optimistic locking | Java 17 · Spring Boot 3 · Angular 16 · NgRx · PostgreSQL · Docker |
 | **[RetailFlow Platform](https://github.com/sameerkhan63731/retailflow-platform)** | Idempotent checkout, validation, order events, reliable API design | Java 17 · Spring Boot · REST · Docker |
 | **[CustomerHub Portal](https://github.com/sameerkhan63731/customerhub-portal)** | Customer search, support workflows, reporting, operational health | Java 17 · Spring Boot · Actuator |
 | **[EventPulse Notifications](https://github.com/sameerkhan63731/eventpulse-notifications)** | Event deduplication, retry policies, dead-letter handling, delivery state | Spring Boot · Kafka · Redis |
